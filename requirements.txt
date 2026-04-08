@@ -1,2 +1,4 @@
 streamlit
 pypdf
+python-docx==0.8.11
+lxml
